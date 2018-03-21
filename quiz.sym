@@ -1,0 +1,28 @@
+// Symbol table
+// Scope level 0:
+//	Symbol Name       Page Address
+//	----------------  ------------
+//	START             3000
+//	END               3013
+//	RESULT1           301D
+//	RESULT2           3020
+//	RESULT3           3023
+//	RESULT4           3026
+//	GETA              3029
+//	POINTS            3032
+//	SAVE_R7           3036
+//	ANSWER            3037
+//	ASCII_INVERSE     3040
+//	NUM_3             3041
+//	NUM_4             3042
+//	Q1                3043
+//	Q2                3044
+//	Q3                3045
+//	Q1Answ            3046
+//	Q2Answ            3047
+//	Q3Answ            3048
+//	RES1              3049
+//	RES2              304A
+//	RES3              304B
+//	RES4              304C
+
